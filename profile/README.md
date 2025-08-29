@@ -2,7 +2,7 @@
 
 
 
-<img src="[https://github.com/user-attachments/assets/a8d16056-475d-4794-9706-71a4c434fb2f"](https://github.com/True-Price-org/.github/blob/093a255554831ff06ad1ee4667287aff37871c7c/profile/TP%20Logo.png) alt="TP logo" width="200"/>
+<img src="https://github.com/True-Price-org/.github/blob/093a255554831ff06ad1ee4667287aff37871c7c/profile/TP%20Logo.png" alt="TP logo" width="200"/>
 
 
 ![Scope: Global](https://img.shields.io/badge/Scope-Global-blueviolet)
