@@ -1,3 +1,12 @@
+# Welcome
+
+<img src="https://github.com/user-attachments/assets/a8d16056-475d-4794-9706-71a4c434fb2f" alt="TP logo" width="200"/>
+
+![Focus: Impact](https://img.shields.io/badge/Focus-Nutrition-00bfbf)
+![Scope: Global](https://img.shields.io/badge/Scope-Global-blueviolet)
+![Data Type: Open](https://img.shields.io/badge/Data%20Type-Open-blue)
+![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)
+
 # True Price
 
 Revealing the social & environmental costs behind products and services — and helping organisations act on them.
@@ -17,15 +26,22 @@ Revealing the social & environmental costs behind products and services — and 
 ## Contribute
 - Open an **Issue** with questions or ideas
 
-🌍 About True Price
+---
+
+## 🌍 About True Price
 
 Welcome to the official GitHub space of True Price - we are a social enterprise & non-profit organisation working to support a more sustainable and inclusive economy with true prices. A true price is the market price of a produce plus all social and environmental costs. 
 
 Learn more about our mission, methodologies, and impact at:
 👉 https://trueprice.org
 
-📜 License
+---
+
+##📜 License
 All materials published in this organization are shared under the CC BY-NC-ND 4.0 You may share this dataset with attribution, but modification and commercial use are not permitted, unless otherwise noted.
 
- Contact
-Questions? Collaborations? email us at: info@trueprice.org
+
+---
+
+## 📬 Contact
+Questions? Collaborations? email us at: **info@trueprice.org**
