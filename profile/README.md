@@ -1,6 +1,6 @@
 # Welcome
 
-<img src="https://github.com/user-attachments/assets/a8d16056-475d-4794-9706-71a4c434fb2f" alt="TP logo" width="200"/>
+<img src="[https://github.com/user-attachments/assets/a8d16056-475d-4794-9706-71a4c434fb2f](https://github.com/True-Price-org/.github/commit/bb15069871d2937a63c567cd9de52f572029fac2#diff-a6ca88b7d9784ed63adeef264455e4f199434cba73070ed0270682047d06fae3)" alt="TP logo" width="200"/>
 
 ![Focus: Impact](https://img.shields.io/badge/Focus-Nutrition-00bfbf)
 ![Scope: Global](https://img.shields.io/badge/Scope-Global-blueviolet)
