@@ -5,8 +5,8 @@ Revealing the real social & environmental costs behind products and services —
 **Website:** https://trueprice.org • **Contact:** info@trueprice.org
 
 ## What we publish
-- **Methodology:** Principles, factors, and calculation guidance
-- **Datasets:** Inputs and example results
+- **Methodology:** Monetisation Factors for True Pricing
+- **Open Datasets:** Inputs and example results
 - **Tools:** Code and notebooks for analysis & reporting
 
 ## Get started
