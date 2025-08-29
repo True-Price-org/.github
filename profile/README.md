@@ -1,6 +1,6 @@
 # Welcome
 
-<img src="https://github.com/True-Price-org/.github/commit/bb15069871d2937a63c567cd9de52f572029fac2" alt="TP logo" width="200"/>
+<img src="[https://github.com/True-Price-org/.github/commit/bb15069871d2937a63c567cd9de52f572029fac2](https://raw.githubusercontent.com/True-Price-org/.github/main/profile/assets/logo.png)" alt="TP logo" width="200"/>
 
 
 ![Scope: Global](https://img.shields.io/badge/Scope-Global-blueviolet)
