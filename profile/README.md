@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="./assets/logo.png" alt="TP logo" width="200" />
+  <img src="https://github.com/True-Price-org/.github/blob/093a255554831ff06ad1ee4667287aff37871c7c/profile/TP%20Logo.png" alt="TP logo" width="200" />
 </p>
 
 
