@@ -1,6 +1,6 @@
 # True Price
 
-Revealing the real social & environmental costs behind products and services — and helping organizations act on them.
+Revealing the social & environmental costs behind products and services — and helping organisations act on them.
 
 **Website:** https://trueprice.org • **Contact:** info@trueprice.org
 
@@ -12,9 +12,9 @@ Revealing the real social & environmental costs behind products and services —
 ## Get started
 1. Explore our pinned repositories below.
 2. Read the `methodology` repo for concepts and definitions.
-3. Use the `tools` repo to try calculations on your data.
+
 
 ## Contribute
 - Open an **Issue** with questions or ideas
-- See `CONTRIBUTING.md` and our **Code of Conduct**
+
 
