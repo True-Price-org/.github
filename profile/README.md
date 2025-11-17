@@ -13,7 +13,7 @@
 
 Revealing the social & environmental costs behind products and services — and helping organisations act on them.
 
-**Website:** https://trueprice.org • **Contact:** info@trueprice.org
+**Website:** https://truepricefoundation.org • **Contact:** info@trueprice.org
 
 ## 📁 What we publish
 - **Methodology:** Monetisation Factors for True Pricing
