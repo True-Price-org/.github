@@ -32,10 +32,10 @@ Revealing the social & environmental costs behind products and services — and 
 
 ## 🌍 About True Price
 
-Welcome to the official GitHub space of True Price - we are a social enterprise & non-profit organisation working to support a more sustainable and inclusive economy with true prices. A true price is the market price of a produce plus all social and environmental costs. 
+Welcome to the official GitHub space of True Price - we are a social enterprise & non-profit organisation working to support a more sustainable and inclusive economy with true prices. A true price is the market price of a product plus all social and environmental costs. 
 
 Learn more about our mission, methodologies, and impact at:
-👉 https://trueprice.org
+👉 https://truepricefoundation.org
 
 ---
 
